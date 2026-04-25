@@ -1,8 +1,5 @@
-devops-capstone-project
+# devops-capstone-project
 
-This project implements a customer accounts microservice with REST APIs for managing customer data (CRUD operations).
+![Build Status](https://github.com/anandushivakumar/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
-Includes:
-- Agile planning with GitHub
-- CI/CD pipeline
-- Docker & Kubernetes deployment
+This project implements a customer accounts microservice using DevOps practices.
